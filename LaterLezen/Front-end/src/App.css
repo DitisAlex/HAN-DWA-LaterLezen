@@ -1,0 +1,157 @@
+.App {
+  overflow-wrap: break-word;
+}
+
+.round-icon {
+  margin: 0.5rem;
+  border-radius: 50% !important;
+  margin-left: 5%;
+  margin-right: 5%;
+  border: 1px solid #000;
+}
+
+.round-icon.active_theme {
+  border: 2px solid #53b557 !important;
+}
+
+.round-icon.default {
+  background-color: #fff;
+  border: 2px solid #458aff;
+}
+
+.round-icon.default:hover {
+  background-color: #fff;
+}
+
+.round-icon.typewriter {
+  background-color: #e0d3af;
+  border: 2px solid #458aff;
+}
+.round-icon.typewriter:hover {
+  background-color: #e0d3af;
+}
+
+.round-icon.dark {
+  background-color: #000;
+  border: 2px solid #458aff;
+}
+
+.round-icon.dark:hover {
+  background-color: #000;
+}
+
+.round-icon.bluegrey {
+  background-color: #dbe1f1;
+  border: 2px solid #458aff;
+}
+
+.round-icon.bluegrey:hover {
+  background-color: #dbe1f1;
+}
+
+.round-icon.darkblue {
+  background-color: #043046;
+  border: 2px solid #458aff;
+}
+
+.round-icon.darkblue:hover {
+  background-color: #043046;
+}
+
+.blue-border {
+  border: 1px solid #448aff;
+}
+
+.no-scroll {
+  overflow-y: hidden !important;
+}
+
+.preference-button {
+  position: fixed;
+  bottom: 0;
+  right: 2%;
+}
+
+.preference-button .btn {
+  margin: 5px 0;
+}
+
+.preference-button h5 {
+  font-size: 1.5rem !important;
+}
+.inner-content {
+  position: absolute;
+  bottom: 65px;
+  width: inherit;
+}
+
+.tag {
+  margin: 0 10px 0 0;
+  padding: 0 5px;
+  border: 1px solid black;
+  border-radius: 25px;
+  user-select: none;
+  background-color: orange;
+}
+
+#edit-article {
+  margin: 25px 0;
+}
+
+#edit-article label {
+  font-size: 1.2rem;
+}
+
+.dashboard-article .card-title {
+  color: #ffffff;
+}
+
+.readArticle .author {
+  border-top: 1px solid rgba(160, 160, 160, 0.2);
+  display: block;
+  margin-top: 20px;
+}
+
+.readArticle .tag {
+  color: #000000;
+}
+
+.hover-show i {
+  display: none;
+}
+
+.hover-show:hover i {
+  display: inline;
+}
+
+.article .input-field.inline {
+  margin: 0;
+  vertical-align: baseline;
+}
+
+.edit-button {
+  position: fixed;
+  bottom: 0;
+  right: 6%;
+}
+.edit-button .btn {
+  margin: 5px 0;
+}
+
+.cancel-button {
+  position: fixed;
+  bottom: 0;
+  right: 10%;
+}
+.cancel-button .btn {
+  margin: 5px 0;
+}
+
+.article input {
+  color: #000 !important;
+  font-size: x-large !important;
+}
+
+.hidden {
+  display: none;
+}

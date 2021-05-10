@@ -1,0 +1,51 @@
+.theme-darkblue {
+    background-color: #043046;
+    color: #fff
+    
+}
+
+.theme-darkblue .article img {
+    padding: 2rem;
+}
+.theme-darkblue .article h1{
+    font-size: xx-large;
+}
+.theme-darkblue .article h2{
+    font-size: xx-large;
+}
+.theme-darkblue .article h3{
+    font-size: x-large;
+}
+.theme-darkblue .article h4{
+    font-size: large;
+}
+.theme-darkblue .article h5{
+    font-size: medium;
+}
+.theme-darkblue .article h6{
+    font-size: small;
+}
+.theme-darkblue .article p{
+    font-size: medium;
+}
+.theme-darkblue .article a {
+    color: #fff !important;
+}
+.theme-darkblue .article .btn {
+    color: rgb(117, 0, 0);
+}
+
+.theme-darkblue .article input[type="text"] 
+{
+    color: #fff;
+}
+
+.theme-darkblue textarea.materialize-textarea
+{
+    color: #fff;
+}
+
+.theme-darkblue .article input
+{
+    color: #fff !important;
+}

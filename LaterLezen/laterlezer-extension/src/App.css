@@ -1,0 +1,28 @@
+.article {
+  min-width: 800px; 
+  min-height: 450px;
+}
+
+.login {
+    min-width: 350px;
+}
+
+.container {
+  width: 100%;
+}
+
+.tag {
+  margin-right: 5px;
+  padding: 0 5px;
+  border: 1px solid black;
+  border-radius: 25px;
+  user-select: none;
+}
+.selected-tag {
+  background-color: green;
+  color: #ffffff;
+}
+
+.retrieved-tag {
+  background-color: powderblue;
+}

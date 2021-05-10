@@ -1,0 +1,31 @@
+.theme-typewriter {
+    background-color: #E0D3AF;
+    color: #000;
+}
+
+.theme-typewriter .article {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 0,2;
+}
+
+.theme-typewriter .article h1{
+    font-size: xx-large;
+}
+.theme-typewriter .article h2{
+    font-size: xx-large;
+}
+.theme-typewriter .article h3{
+    font-size: x-large;
+}
+.theme-typewriter .article h4{
+    font-size: large;
+}
+.theme-typewriter .article h5{
+    font-size: medium;
+}
+.theme-typewriter .article h6{
+    font-size: small;
+}
+.theme-typewriter .article p{
+    font-size: medium;
+}

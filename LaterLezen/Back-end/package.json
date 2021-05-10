@@ -1,0 +1,46 @@
+{
+  "name": "laterlezen",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "@postlight/mercury-parser": "^2.2.0",
+    "article-parser": "^4.2.5",
+    "bcrypt": "^5.0.0",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "jsdom": "^16.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.10.13",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.1",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "puppeteer": "^5.5.0",
+    "puppeteer-autoscroll-down": "^0.1.6",
+    "supertest": "^6.0.1",
+    "websockets": "^0.2.0",
+    "ws": "^7.4.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6",
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node app",
+    "dev": "cross-env NODE_ENV=development nodemon app",
+    "test": "jest --verbose",
+    "e2e": "jest --testMatch=\"**/*.e2e.js\""
+  },
+  "author": "Glenn Hulscher",
+  "license": "ISC"
+}

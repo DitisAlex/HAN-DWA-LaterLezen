@@ -1,0 +1,49 @@
+.theme-dark{
+    background-color: #1c1c1c;
+    color: #fff;
+
+}
+
+.theme-dark .article h1 {
+    font-size: xx-large;
+}
+
+.theme-dark .article h2{
+    font-size: xx-large;
+}
+.theme-dark .article h3{
+    font-size: x-large;
+}
+.theme-dark  .article h4{
+    font-size: large;
+}
+.theme-dark .article h5{
+    font-size: medium;
+}
+.theme-dark .article h6{
+    font-size: small;
+}
+.theme-dark .article p{
+    font-size: medium !important;
+}
+.theme-dark .article a {
+    color: #03DAC5;
+}
+.theme-dark .btn {
+    color: #000;
+}
+
+.theme-dark .article input[type="text"] 
+{
+    color: #fff;
+}
+
+.theme-dark textarea.materialize-textarea
+{
+    color: #fff;
+}
+
+.theme-dark .article input
+{
+    color: #fff !important;
+}
