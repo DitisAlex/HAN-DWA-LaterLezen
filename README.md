@@ -2,16 +2,16 @@
 
 ## Opdracht
 
-[LaterLezer](opdracht)
+[LaterLezer](https://github.com/DitisAlex/HAN-DWA-LaterLezen/blob/main/Opdracht/LaterLezer.docx)
 
 ## Software Guidebook
 
-[Software Guidebook](https://github.com/HANICA-DWA/sep2020-project-pardellos/tree/Development/software%20guidebook)
+[Software Guidebook](https://github.com/DitisAlex/HAN-DWA-LaterLezen/blob/main/Software%20Guidebook/readme.md)
+
 
 ## Installatie van project
 
-[Deployment](https://github.com/HANICA-DWA/sep2020-project-pardellos/blob/Development/software%20guidebook/readme.md#deployment)
-
+[Deployment](https://github.com/DitisAlex/HAN-DWA-LaterLezen/blob/main/Software%20Guidebook/readme.md#deployment)
 ## Leden
 
 - Ritse Huiskes
